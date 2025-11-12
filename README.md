@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/nawabdev-nak/nawabdev-nak/output/github-snake.svg" alt="snake animation" />
 </div>
 
 <h1 align="center">✨ Hey there, I'm <span style="color:#00BFFF;">MD Nawab Ali Khan</span> 👋</h1>
